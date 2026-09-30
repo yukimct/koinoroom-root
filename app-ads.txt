@@ -1,0 +1,9 @@
+# app-ads.txt — 이 도메인을 개발자 사이트로 적어 둔 앱의 광고를
+# 누가 팔 수 있는지 선언한다(IAB Tech Lab 규격).
+#
+# ⚠️ **AdMob은 개발자 URL의 「최상위 도메인」에서 이 파일을 찾는다.**
+# 스토어에 privacy.koinoroom.com이 적혀 있어도 뿌리인 koinoroom.com을 본다.
+# 하위 도메인에만 올려 두면 「앱을 확인할 수 없습니다」가 계속 뜬다.
+#
+# pub 번호는 AdMob 게시자 ID다. 바꾸지 말 것.
+google.com, pub-5160514809468328, DIRECT, f08c47fec0942fa0
